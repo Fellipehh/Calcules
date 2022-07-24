@@ -1,0 +1,24 @@
+*{margin: 0;}
+
+.cab{display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    background-color: #0D4DEC;}
+    
+#a-cab{text-decoration: none;
+    padding: 25;
+    font-size: 35;
+    color: #FFFFFF;}
+#a-cab:hover{background-color: #FFFFFF;
+    color:#0D4DEC;}
+    
+section{display: flex;
+flex-direction: column;
+    justify-content: space-around;
+}
+
+#op{text-decoration:none;
+    font-size: 40;}
+#op:hover{background-color:#001EA8;
+color: #FFFFFF;}
+    
